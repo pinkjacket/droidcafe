@@ -18,7 +18,8 @@
         </activity>
         <activity android:name=".MenuActivity" />
         <activity android:name=".AboutActivity" />
-        <activity android:name=".ContactActivity"></activity>
+        <activity android:name=".ContactActivity" />
+        <activity android:name=".FeedbackActivity"></activity>
     </application>
 
 </manifest>
