@@ -7,7 +7,7 @@
     tools:context="pinkjacket.localcafe.ContactActivity">
 
     <TextView
-        android:id="@+id/textView"
+        android:id="@+id/contactTextView"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
         android:text="contact info goes here"
